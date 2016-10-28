@@ -33,7 +33,7 @@ public class NoBall implements GumballState {
 	@Override
 	public void ejectQuarter() {
 		System.out.println("Please Insert Quarter to eject ball");
-		System.out.println("Please !!!");
+		
 	}
 
 	/* (non-Javadoc)
